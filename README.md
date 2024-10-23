@@ -17,7 +17,4 @@ Nosso foco é a criação de modelos de dados avançados que forneçam insights 
 ### Estrutura do Repositório:
 - **Advanced Data Modeling**: Todos os arquivos relacionados à modelagem avançada de dados estarão nesta pasta.
 
----
-
-**Acompanhe nosso progresso e contribua para a nossa jornada em ciência de dados e modelagem!**
 
